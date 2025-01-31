@@ -1,4 +1,4 @@
-# Telegram Auto-Responder & Message Broadcaster  
+#  Telethon-Spam-Bot
 
 Этот скрипт на **Python** с использованием **Telethon** автоматизирует работу с Telegram, выполняя две ключевые функции:  
 
