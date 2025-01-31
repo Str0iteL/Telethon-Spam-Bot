@@ -53,7 +53,7 @@ pip install telethon colorama
 
 ### 🔹 Запуск  
 ```bash
-python script.py
+python spam.py
 ```
 
 ---
